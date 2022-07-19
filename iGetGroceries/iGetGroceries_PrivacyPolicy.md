@@ -1,3 +1,7 @@
+# Terms of Service
+
+The Terms of Service for the software Application iGetGroceries ("Application") can be viewed at: https://www.apple.com/legal/internet-services/itunes/dev/minterms/
+
 # Privacy Policy
 
 This privacy policy governs your use of the software application iGetGroceries (“Application”) for mobile devices that was created by Nikolai Nobadi ("Developer"). The Application is an app that keeps track of different grocery lists, as well as a recipe list, which, when used in tandem, is designed to help with grocery shopping preparations.
