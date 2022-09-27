@@ -4,7 +4,7 @@ The Terms of Service for the software Application HitRateCalc for FFBE: WOTV ("A
 
 # Privacy Policy
 
-This privacy policy governs your use of the software application HitRateCalc for FFBE: WOTV (“Application”) for mobile devices that was created by Nikolai Nobadi ("Developer"). The Application is an app helps determine hit-rate calculations for the mobile game Final Fantasy Brave Exvius: War of the Visions. The Application has no affiliation with the owners of FFBE: WOTV. The Application is fan-made and unnofficial.
+This privacy policy governs your use of the software application HitRateCalc for FFBE: WOTV (“Application”) for mobile devices that was created by Nikolai Nobadi ("Developer"). The Application is an app helps determine hit-rate calculations for the mobile game Final Fantasy Brave Exvius: War of the Visions. The Application has no affiliation with the owners of FFBE: WOTV. The Application is fan-made and unofficial.
 
 ### What information does the Application obtain and how is it used?
 #### User Provided Information
