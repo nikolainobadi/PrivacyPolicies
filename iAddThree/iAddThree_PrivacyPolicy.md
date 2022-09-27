@@ -20,6 +20,10 @@ This Application does not collect precise information about the location of your
 
 The Application does not allow access from any third parties.
 
+### Changes
+
+This Privacy Policy may be updated from time to time for any reason. You will be notified of any changes to this Privacy Policy by posting the new Privacy Policy here and/or informing you via email or directly through the Application. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
 ### Contact
 
 If you have any questions regarding privacy while using the Application, or have questions about the Developer's practices, please contact the Developer via email at nnobadicares@gmail.com
