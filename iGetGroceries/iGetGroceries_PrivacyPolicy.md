@@ -25,12 +25,12 @@ This Application may collect precise information about the location of your mobi
 
 Your information will be shared with third parties only in the ways that are described in this privacy statement.
 
-User Provided and Automatically Collected Information may be dislosed:
+User Provided and Automatically Collected Information may be disclosed:
 
 - as required by law, such as to comply with a subpoena, or similar legal process;
 - when the Developer believe in good faith that disclosure is necessary to protect the Developer's rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 - with Google Firebase, the main service provider for the Application. You may find the privacy policy for Google Firebase by [clicking here](https://firebase.google.com/support/privacy)
-- with RevenueCat, which manages In-App Subscriptions for the Application. You may find the pricacy policy for RevenueCat by [clicking here](https://www.revenuecat.com/privacy/)
+- with RevenueCat, which manages In-App Subscriptions for the Application. You may find the privacy policy for RevenueCat by [clicking here](https://www.revenuecat.com/privacy/)
 - if the Developer is involved in a merger, acquisition, or sale of all or a portion of the Developer's assets, you will be notified via email of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
 ### What are my opt-out rights?
