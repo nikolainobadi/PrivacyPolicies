@@ -39,11 +39,11 @@ You can stop all collection of information by the Application easily by uninstal
 
 ### Data Retention Policy, Managing Your Information
 
-The Developer will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Developer will retain Automatically Collected information for up to 24 months. If you’d like the Developer to delete User Provided Data that you have provided via the Application, you may delete your account (available from Settings in the Application), or please send your request to nikolai.nobadi@gmail.com and the Developer will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+The Developer will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Developer will retain Automatically Collected information for up to 24 months. If you’d like the Developer to delete User Provided Data that you have provided via the Application, you may delete your account (available from Settings in the Application), or please send your request to nnobadicares@gmail.com and the Developer will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
 ### Children
 
-The Developer does not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided information without their consent, he or she should contact the Developer at nikolai.nobadi@gmail.com. The Developer will delete such information from Application files within a reasonable time.
+The Developer does not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided information without their consent, he or she should contact the Developer at nnobadicares@gmail.com. The Developer will delete such information from Application files within a reasonable time.
 
 ### Changes
 
@@ -55,4 +55,4 @@ By using the Application, you are consenting to having your information processe
 
 ### Contact
 
-If you have any questions regarding privacy while using the Application, or have questions about the Developer's practices, please contact the Developer via email at nikolai.nobadi@gmail.com
+If you have any questions regarding privacy while using the Application, or have questions about the Developer's practices, please contact the Developer via email at nnobadicares@gmail.com
